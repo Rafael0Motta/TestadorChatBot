@@ -1,0 +1,16 @@
+{
+  "name": "wpp-automation-bots",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.32.3",
+    "puppeteer": "^22.12.1"
+  }
+}
